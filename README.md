@@ -4,7 +4,7 @@
 
 I made this SFS mount because I didn't have much clearance behind my printer and I didnt wan't to kink the PTFE tubing. It also is great if you put your spool on top of or next to your printer. It's a snap fit, be careful of the cable plug clearance
 
-I use this exhause port cover by Fiction: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Fiction/Exhaust_cover
+I use this exhaust port cover by Fiction: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Fiction/Exhaust_cover
 
 BTT SFS setup guide by samwiseg0: https://github.com/samwiseg0/Voron-Documentation/blob/add-btt-smart-sensor/community/howto/samwiseg0/btt_smart_filament_sensor.md
 
@@ -19,3 +19,5 @@ Inspired by BTT mount by Empusas
 
 ## BOM
 M3x12mm SCHS
+
+bob_loblaw#7046 on Discord
