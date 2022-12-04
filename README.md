@@ -19,5 +19,6 @@ Inspired by BTT mount by Empusas
 
 ## BOM
 M3x12mm SCHS
+M3 Tnut
 
 bob_loblaw#7046 on Discord
